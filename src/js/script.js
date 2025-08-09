@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Data e hora final da contagem regressiva: 21/06/2025 às 16:00:00 (Fuso horário de Brasília - GMT-3)
     // Usamos 'June 21, 2025 16:00:00 GMT-0300' para especificar o fuso horário
-    const endDate = new Date('June 21, 2025 16:00:00 GMT-0300').getTime();
+    const endDate = new Date('August 9, 2025 16:00:00 GMT-0300').getTime();
 
     const daysEl = document.getElementById('days');
     const hoursEl = document.getElementById('hours');
